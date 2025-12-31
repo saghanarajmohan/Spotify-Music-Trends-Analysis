@@ -71,5 +71,5 @@ Here are some insights based on the analysis:
 
  ## How to Run
 
-Open Spotify dataset from kaggle on google colab.
-Run all the cells sequentially from top to bottom.
+1. Open Spotify dataset from kaggle on google colab.
+2. Run all the cells sequentially from top to bottom.
